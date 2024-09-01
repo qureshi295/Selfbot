@@ -234,7 +234,7 @@ async def on_ready():
     print('WITHOUT NITRO USERS USE [help] FOR HELP')
     print('ㅤㅤㅤㅤㅤ')
     print('ㅤㅤㅤㅤㅤ')
-    print(f'{Fore.GREEN}⌦ ¤ 🔥 DARKS ON TOP BXBY 🍁 ¤	⌦')
+    print(f'{Fore.GREEN}⌦ ¤ 🔥 Dqureshi ON TOP BXBY 🍁 ¤	⌦')
 print(f"""{Fore.RED}   __   __  __  _ _  _ __ __  
 /' _/ /__\| _\| | || |  V  | 
 `._`.| \/ | v | | \/ | \_/ | 
@@ -557,8 +557,8 @@ async def help(ctx):
         "`🎃` UTILLITY CMDS\n"
         "`🎃` EXTRA2 CMDS\n\n"
         "**TOO SEE MY ALL COMMANDS LIST TYPE .all**\n\n"
-        "**FOR ANY HELP DM ME:- darks.4sure.\n\n"
-        "`✨`﻿ **Selfbot Created By `.darks.4sure.`**"
+        "**FOR ANY HELP DM ME:- qureshihunyawr.\n\n"
+        "`✨`﻿ **Selfbot Created By `.Qureshi.`**"
     )
     await ctx.send(mess)
     
@@ -567,7 +567,7 @@ async def help(ctx):
 @darks.command(name="ping", aliases=["pong","latency"])
 async def ping(ctx):
     latency = round(darks.latency * 1000)
-    await ctx.send(f"Darks Ke Haters Ki Amma Ke Ph!dday Ki Latency Hai {latency}ms")
+    await ctx.send(f"Qureshi Ke Haters Ki Amma Ke Ph!dday Ki Latency Hai {latency}ms")
 
 #avatar  
 @darks.command(name="avatar", aliases=["av","pfp"])
